@@ -1,0 +1,6 @@
+projectKey=Mercury
+serverUrl=http://localhost:8081
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:8081/dashboard/index/Mercury
+ceTaskId=AWVYroiOuF5PsT4fO77k
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AWVYroiOuF5PsT4fO77k

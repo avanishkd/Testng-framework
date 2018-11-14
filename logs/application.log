@@ -1,0 +1,225 @@
+2018-09-25 14:55:49,080  INFO [main] SignUpTest:91 - First Name Entered: karor
+2018-09-25 14:55:49,320  INFO [main] SignUpTest:94 - Last Name Entered: pati
+2018-09-25 14:55:49,780  INFO [main] SignUpTest:97 - Email ID Entered: gariblakhpatiuser@gmail.com
+2018-09-25 14:55:50,217  INFO [main] SignUpTest:100 - Password Entered: 1234QWER!@#asdf
+2018-09-25 14:55:50,597  INFO [main] SignUpTest:103 - Password reentered: 1234QWER!@#asdf
+2018-09-25 14:55:50,896  INFO [main] SignUpTest:106 - Phone number Entered: 9041367382
+2018-09-25 14:55:51,101  INFO [main] SignUpTest:109 - DOB Entered: 01/01/2017
+2018-09-25 14:55:51,260  INFO [main] SignUpTest:113 - Gender Entered: M
+2018-09-25 14:55:51,585  INFO [main] SignUpTest:120 - Address Entered: House no 671
+2018-09-25 14:55:51,833  INFO [main] SignUpTest:123 - City Name Entered: Mohali
+2018-09-25 14:55:52,073  INFO [main] SignUpTest:126 - State name Entered: Punjab
+2018-09-25 14:55:52,277  INFO [main] SignUpTest:129 - Pin code Entered: 160071
+2018-09-25 14:55:52,469  INFO [main] SignUpTest:132 - Sign up button clicked
+2018-09-25 14:55:57,620  INFO [main] SignUpTest:147 - user logged in
+2018-09-25 14:56:07,350  INFO [main] SignUpTest:60 - [TestResult name=signUpTest status=SUCCESS method=SignUpTest.signUpTest(java.util.Map)[pri:0, instance:com.mindtree.test.SignUpTest@14bf9759] output={null}]
+2018-09-25 16:40:06,822  INFO [main] SignUpTest:91 - First Name Entered: karor
+2018-09-25 16:40:07,051  INFO [main] SignUpTest:94 - Last Name Entered: pati
+2018-09-25 16:40:07,596  INFO [main] SignUpTest:97 - Email ID Entered: gariblakhpatiuser@gmail.com
+2018-09-25 16:40:08,005  INFO [main] SignUpTest:100 - Password Entered: 1234QWER!@#asdf
+2018-09-25 16:40:08,354  INFO [main] SignUpTest:103 - Password reentered: 1234QWER!@#asdf
+2018-09-25 16:40:08,638  INFO [main] SignUpTest:106 - Phone number Entered: 9041367382
+2018-09-25 16:40:08,870  INFO [main] SignUpTest:109 - DOB Entered: 01/01/2017
+2018-09-25 16:40:09,060  INFO [main] SignUpTest:113 - Gender Entered: M
+2018-09-25 16:40:09,519  INFO [main] SignUpTest:120 - Address Entered: House no 671
+2018-09-25 16:40:09,799  INFO [main] SignUpTest:123 - City Name Entered: Mohali
+2018-09-25 16:40:10,051  INFO [main] SignUpTest:126 - State name Entered: Punjab
+2018-09-25 16:40:10,263  INFO [main] SignUpTest:129 - Pin code Entered: 160071
+2018-09-25 16:40:10,437  INFO [main] SignUpTest:132 - Sign up button clicked
+2018-09-25 16:40:14,705  INFO [main] SignUpTest:147 - user logged in
+2018-09-25 16:40:24,452  INFO [main] SignUpTest:60 - [TestResult name=signUpTest status=SUCCESS method=SignUpTest.signUpTest(java.util.Map)[pri:0, instance:com.mindtree.test.SignUpTest@1a407d53] output={null}]
+2018-09-25 16:40:44,541  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:44,640  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:44,750  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:44,821  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:44,890  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:44,958  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,031  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,110  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,190  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,290  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,357  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,431  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,497  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,566  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,628  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:45,686  INFO [main] AdminTest:83 - loading
+2018-09-25 16:40:54,339  INFO [main] AdminTest:178 - [TestResult name=adminTest status=SUCCESS method=AdminTest.adminTest(java.util.Map)[pri:0, instance:com.mindtree.test.AdminTest@3d8c7aca] output={null}]
+2018-09-25 16:41:13,720  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:13,800  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:13,875  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:13,943  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,008  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,080  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,148  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,224  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,288  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,361  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,428  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,496  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,562  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:14,624  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:41:38,770  INFO [main] EndToEnd:250 - Finding element
+2018-09-25 16:41:40,661  INFO [main] EndToEnd:263 - Finding element
+2018-09-25 16:41:41,441  INFO [main] EndToEnd:263 - Finding element
+2018-09-25 16:41:42,130  INFO [main] EndToEnd:274 - Finding element
+2018-09-25 16:41:48,255  INFO [main] EndToEnd:302 - [TestResult name=endToEndTest status=SUCCESS method=EndToEnd.endToEndTest(java.util.Map)[pri:0, instance:com.mindtree.test.EndToEnd@5ebec15] output={null}]
+2018-09-25 16:45:41,458  INFO [main] SignUpTest:91 - First Name Entered: karor
+2018-09-25 16:45:41,678  INFO [main] SignUpTest:94 - Last Name Entered: pati
+2018-09-25 16:45:42,099  INFO [main] SignUpTest:97 - Email ID Entered: gariblakhpatiuser@gmail.com
+2018-09-25 16:45:42,474  INFO [main] SignUpTest:100 - Password Entered: 1234QWER!@#asdf
+2018-09-25 16:45:42,774  INFO [main] SignUpTest:103 - Password reentered: 1234QWER!@#asdf
+2018-09-25 16:45:43,011  INFO [main] SignUpTest:106 - Phone number Entered: 9041367382
+2018-09-25 16:45:43,223  INFO [main] SignUpTest:109 - DOB Entered: 01/01/2017
+2018-09-25 16:45:43,353  INFO [main] SignUpTest:113 - Gender Entered: M
+2018-09-25 16:45:43,646  INFO [main] SignUpTest:120 - Address Entered: House no 671
+2018-09-25 16:45:43,835  INFO [main] SignUpTest:123 - City Name Entered: Mohali
+2018-09-25 16:45:44,027  INFO [main] SignUpTest:126 - State name Entered: Punjab
+2018-09-25 16:45:44,199  INFO [main] SignUpTest:129 - Pin code Entered: 160071
+2018-09-25 16:45:44,351  INFO [main] SignUpTest:132 - Sign up button clicked
+2018-09-25 16:45:48,469  INFO [main] SignUpTest:147 - user logged in
+2018-09-25 16:45:58,723  INFO [main] SignUpTest:60 - [TestResult name=signUpTest status=SUCCESS method=SignUpTest.signUpTest(java.util.Map)[pri:0, instance:com.mindtree.test.SignUpTest@4e04a765] output={null}]
+2018-09-25 16:46:14,067  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,147  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,221  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,310  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,375  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,447  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,520  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,619  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,709  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,792  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,872  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:14,936  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:15,014  INFO [main] AdminTest:83 - loading
+2018-09-25 16:46:24,441  INFO [main] AdminTest:178 - [TestResult name=adminTest status=SUCCESS method=AdminTest.adminTest(java.util.Map)[pri:0, instance:com.mindtree.test.AdminTest@783e6358] output={null}]
+2018-09-25 16:46:38,890  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:38,974  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,070  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,138  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,206  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,302  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,366  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,430  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,494  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,571  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,635  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,691  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,752  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:46:39,823  INFO [main] EndToEnd:93 - loading
+2018-09-25 16:47:02,947  INFO [main] EndToEnd:250 - Finding element
+2018-09-25 16:47:04,609  INFO [main] EndToEnd:263 - Finding element
+2018-09-25 16:47:05,321  INFO [main] EndToEnd:263 - Finding element
+2018-09-25 16:47:06,063  INFO [main] EndToEnd:274 - Finding element
+2018-09-25 16:47:07,263  INFO [main] EndToEnd:274 - Finding element
+2018-09-25 16:47:12,351  INFO [main] EndToEnd:302 - [TestResult name=endToEndTest status=SUCCESS method=EndToEnd.endToEndTest(java.util.Map)[pri:0, instance:com.mindtree.test.EndToEnd@17550481] output={null}]
+2018-09-26 09:03:27,330  INFO [main] SignUpTest:91 - First Name Entered: karor
+2018-09-26 09:03:27,553  INFO [main] SignUpTest:94 - Last Name Entered: pati
+2018-09-26 09:03:27,939  INFO [main] SignUpTest:97 - Email ID Entered: gariblakhpatiuser@gmail.com
+2018-09-26 09:03:28,279  INFO [main] SignUpTest:100 - Password Entered: 1234QWER!@#asdf
+2018-09-26 09:03:28,565  INFO [main] SignUpTest:103 - Password reentered: 1234QWER!@#asdf
+2018-09-26 09:03:28,801  INFO [main] SignUpTest:106 - Phone number Entered: 9041367382
+2018-09-26 09:03:29,064  INFO [main] SignUpTest:109 - DOB Entered: 01/01/2017
+2018-09-26 09:03:29,276  INFO [main] SignUpTest:113 - Gender Entered: M
+2018-09-26 09:03:29,771  INFO [main] SignUpTest:120 - Address Entered: House no 671
+2018-09-26 09:03:29,936  INFO [main] SignUpTest:123 - City Name Entered: Mohali
+2018-09-26 09:03:30,091  INFO [main] SignUpTest:126 - State name Entered: Punjab
+2018-09-26 09:03:30,257  INFO [main] SignUpTest:129 - Pin code Entered: 160071
+2018-09-26 09:03:30,421  INFO [main] SignUpTest:132 - Sign up button clicked
+2018-09-26 09:03:33,930  INFO [main] SignUpTest:147 - user logged in
+2018-09-26 09:03:42,398  INFO [main] SignUpTest:60 - [TestResult name=signUpTest status=SUCCESS method=SignUpTest.signUpTest(java.util.Map)[pri:0, instance:com.mindtree.test.SignUpTest@42dafa95] output={null}]
+2018-09-26 09:25:43,321  INFO [main] SignUpTest:91 - First Name Entered: karor
+2018-09-26 09:25:43,536  INFO [main] SignUpTest:94 - Last Name Entered: pati
+2018-09-26 09:25:43,922  INFO [main] SignUpTest:97 - Email ID Entered: gariblakhpatiuser@gmail.com
+2018-09-26 09:25:44,257  INFO [main] SignUpTest:100 - Password Entered: 1234QWER!@#asdf
+2018-09-26 09:25:44,659  INFO [main] SignUpTest:103 - Password reentered: 1234QWER!@#asdf
+2018-09-26 09:25:44,982  INFO [main] SignUpTest:106 - Phone number Entered: 9041367382
+2018-09-26 09:25:45,205  INFO [main] SignUpTest:109 - DOB Entered: 01/01/2017
+2018-09-26 09:25:45,331  INFO [main] SignUpTest:113 - Gender Entered: M
+2018-09-26 09:25:45,618  INFO [main] SignUpTest:120 - Address Entered: House no 671
+2018-09-26 09:25:45,780  INFO [main] SignUpTest:123 - City Name Entered: Mohali
+2018-09-26 09:25:45,963  INFO [main] SignUpTest:126 - State name Entered: Punjab
+2018-09-26 09:25:46,105  INFO [main] SignUpTest:129 - Pin code Entered: 160071
+2018-09-26 09:25:46,244  INFO [main] SignUpTest:132 - Sign up button clicked
+2018-09-26 09:25:49,709  INFO [main] SignUpTest:147 - user logged in
+2018-09-26 09:25:58,254  INFO [main] SignUpTest:60 - [TestResult name=signUpTest status=SUCCESS method=SignUpTest.signUpTest(java.util.Map)[pri:0, instance:com.mindtree.test.SignUpTest@4e04a765] output={null}]
+2018-09-26 09:26:11,750  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:11,827  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:11,892  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:11,957  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:12,032  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:12,105  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:12,162  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:12,253  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:12,325  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:12,404  INFO [main] AdminTest:83 - loading
+2018-09-26 09:26:21,198  INFO [main] AdminTest:178 - [TestResult name=adminTest status=SUCCESS method=AdminTest.adminTest(java.util.Map)[pri:0, instance:com.mindtree.test.AdminTest@783e6358] output={null}]
+2018-09-26 09:26:47,191  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,256  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,320  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,403  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,456  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,523  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,580  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,640  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,693  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,748  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,807  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,865  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,922  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:26:47,988  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:27:08,349  INFO [main] EndToEnd:250 - Finding element
+2018-09-26 09:27:09,768  INFO [main] EndToEnd:263 - Finding element
+2018-09-26 09:27:10,410  INFO [main] EndToEnd:263 - Finding element
+2018-09-26 09:27:11,071  INFO [main] EndToEnd:274 - Finding element
+2018-09-26 09:27:15,926  INFO [main] EndToEnd:302 - [TestResult name=endToEndTest status=SUCCESS method=EndToEnd.endToEndTest(java.util.Map)[pri:0, instance:com.mindtree.test.EndToEnd@17550481] output={null}]
+2018-09-26 09:28:33,844  INFO [main] SignUpTest:91 - First Name Entered: karor
+2018-09-26 09:28:34,067  INFO [main] SignUpTest:94 - Last Name Entered: pati
+2018-09-26 09:28:34,508  INFO [main] SignUpTest:97 - Email ID Entered: gariblakhpatiuser@gmail.com
+2018-09-26 09:28:34,902  INFO [main] SignUpTest:100 - Password Entered: 1234QWER!@#asdf
+2018-09-26 09:28:35,378  INFO [main] SignUpTest:103 - Password reentered: 1234QWER!@#asdf
+2018-09-26 09:28:35,796  INFO [main] SignUpTest:106 - Phone number Entered: 9041367382
+2018-09-26 09:28:36,003  INFO [main] SignUpTest:109 - DOB Entered: 01/01/2017
+2018-09-26 09:28:36,137  INFO [main] SignUpTest:113 - Gender Entered: M
+2018-09-26 09:28:36,432  INFO [main] SignUpTest:120 - Address Entered: House no 671
+2018-09-26 09:28:36,600  INFO [main] SignUpTest:123 - City Name Entered: Mohali
+2018-09-26 09:28:36,815  INFO [main] SignUpTest:126 - State name Entered: Punjab
+2018-09-26 09:28:36,950  INFO [main] SignUpTest:130 - Pin code Entered: 160071
+2018-09-26 09:28:37,087  INFO [main] SignUpTest:133 - Sign up button clicked
+2018-09-26 09:28:47,151  INFO [main] SignUpTest:144 - loading page
+2018-09-26 09:28:57,196  INFO [main] SignUpTest:144 - loading page
+2018-09-26 09:29:07,223  INFO [main] SignUpTest:144 - loading page
+2018-09-26 09:29:17,242  INFO [main] SignUpTest:144 - loading page
+2018-09-26 09:29:27,317  INFO [main] SignUpTest:144 - loading page
+2018-09-26 09:29:27,823  INFO [main] SignUpTest:60 - [TestResult name=signUpTest status=FAILURE method=SignUpTest.signUpTest(java.util.Map)[pri:0, instance:com.mindtree.test.SignUpTest@4e04a765] output={null}]
+2018-09-26 09:29:41,558  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:41,656  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:41,727  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:41,809  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:41,879  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:41,949  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:42,015  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:42,087  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:42,152  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:42,211  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:42,286  INFO [main] AdminTest:83 - loading
+2018-09-26 09:29:51,205  INFO [main] AdminTest:178 - [TestResult name=adminTest status=SUCCESS method=AdminTest.adminTest(java.util.Map)[pri:0, instance:com.mindtree.test.AdminTest@783e6358] output={null}]
+2018-09-26 09:30:06,745  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:06,821  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:06,888  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:06,947  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:06,998  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,058  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,113  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,166  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,222  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,275  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,327  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,381  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,436  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:07,494  INFO [main] EndToEnd:93 - loading
+2018-09-26 09:30:28,207  INFO [main] EndToEnd:250 - Finding element
+2018-09-26 09:30:29,657  INFO [main] EndToEnd:263 - Finding element
+2018-09-26 09:30:30,310  INFO [main] EndToEnd:263 - Finding element
+2018-09-26 09:30:30,974  INFO [main] EndToEnd:274 - Finding element
+2018-09-26 09:30:35,992  INFO [main] EndToEnd:302 - [TestResult name=endToEndTest status=SUCCESS method=EndToEnd.endToEndTest(java.util.Map)[pri:0, instance:com.mindtree.test.EndToEnd@17550481] output={null}]
